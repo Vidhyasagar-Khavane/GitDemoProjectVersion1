@@ -6,7 +6,7 @@ public class DemoClass {
 	System.out.println("Hello from main class");
 	System.out.println("Hello from Main class");
 	System.out.println("Hello from Main class-line 3");
-
+System.out.println("POSTJIRA3");
 	}
 
 }
