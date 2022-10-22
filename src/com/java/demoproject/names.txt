@@ -2,5 +2,3 @@ names
 a
 b
 c
-d
-e
